@@ -6,6 +6,13 @@
 
 فهرستی دسته‌بندی‌شده از ابزارها، منابع، کتابخانه‌ها، پژوهش‌ها و پروژه‌های مرتبط با Fashion Technology، طراحی دیجیتال لباس، شبیه‌سازی پارچه، Fashion AI و Digital Fashion.
 
+## نشانک‌ها
+
+- 🆓 رایگان
+- 🟢 متن‌باز / Open Source
+- 🎓 دارای نسخه یا تخفیف آموزشی
+- 💰 پولی / Commercial
+
 ## محتوا
 
 - [3D Design & Simulation](#3d-design--simulation)
@@ -153,21 +160,6 @@
 - [CGTrader](https://www.cgtrader.com/)
 
 - [ArtStation](https://www.artstation.com/)
-
----
-
-## نشانک‌ها
-
-- 🆓 رایگان
-- 🟢 متن‌باز / Open Source
-- 🎓 دارای نسخه یا تخفیف آموزشی
-- 💰 پولی / Commercial
-
----
-
-## Contributing
-
-اگر ابزار، dataset، مقاله یا منبع مفید دیگری می‌شناسید، Pull Request و Issue خوشحال‌کننده خواهد بود.
 
 ---
 
