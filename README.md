@@ -6,10 +6,19 @@ Fashion tech connects creative fashion design with digital workflows: 2D/3D CAD,
 
 Contributions are welcome. Please keep descriptions short, useful, and non-promotional.
 
+
+## Legend
+
+- 🆓 Free to use or offers a free tier
+- 🟢 Open source
+- 🎓 Free for students / education
+- 💰 Commercial / paid
+
 ## Contents
 
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
+- [Free & Open Source](#free--open-source)
 - [3D Fashion Design & Garment Simulation](#3d-fashion-design--garment-simulation)
 - [2D Pattern Making, CAD & Production](#2d-pattern-making-cad--production)
 - [Open Source Pattern-Making Tools](#open-source-pattern-making-tools)
@@ -25,50 +34,66 @@ Contributions are welcome. Please keep descriptions short, useful, and non-promo
 - [Communities & Media](#communities--media)
 - [Related Lists](#related-lists)
 
+## Free & Open Source
+
+- [Blender](https://www.blender.org/) 🆓 🟢 - Open-source 3D creation suite used for digital fashion rendering, animation, and presentation.
+- [Seamly2D](https://seamly.io/) 🆓 🟢 - Free and open-source software for pattern making and custom measurements.
+- [Valentina](https://smart-pattern.com.ua/en/valentina/download/) 🆓 🟢 - Open-source parametric pattern-making program for clothing patterns.
+- [FreeSewing](https://freesewing.org/) 🆓 🟢 - Open-source platform for made-to-measure sewing patterns.
+- [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) 🆓 🟢 - Zalando dataset of article images intended as a drop-in replacement for MNIST.
+- [DeepFashion2](https://github.com/switchablenorms/DeepFashion2) 🆓 🟢 - Dataset for fashion detection, pose estimation, segmentation, and retrieval.
+- [ModaNet](https://github.com/eBay/modanet) 🆓 🟢 - Street fashion image dataset with polygon annotations for apparel segmentation.
+- [OpenTryOn](https://github.com/tryonlabs/opentryon) 🆓 🟢 - Open-source toolkit for fashion AI, garment segmentation, human parsing, pose estimation, and virtual try-on.
+- [IDM-VTON](https://github.com/yisol/IDM-VTON) 🆓 🟢 - Diffusion-based virtual try-on model.
+- [OOTDiffusion](https://github.com/levihsu/OOTDiffusion) 🆓 🟢 - Outfitting-oriented diffusion model for virtual try-on.
+- [StableVITON](https://github.com/rlawjdghek/StableVITON) 🆓 🟢 - Learning-based image virtual try-on model using latent diffusion.
+- [HR-VITON](https://github.com/sangyun884/HR-VITON) 🆓 🟢 - High-resolution virtual try-on model.
+- [VITON-HD](https://github.com/shadow2496/VITON-HD) 🆓 🟢 - High-resolution virtual try-on benchmark and model.
+
 ## 3D Fashion Design & Garment Simulation
 
-- [CLO](https://www.clo3d.com/) - 3D fashion design software for virtual garment visualization and simulation.
-- [Marvelous Designer](https://www.marvelousdesigner.com/) - 3D clothing design and cloth simulation tool widely used in games, VFX, animation, and digital fashion.
-- [Browzwear](https://browzwear.com/) - Digital apparel design and development platform with 3D product creation workflows.
-- [Style3D](https://www.style3d.com/) - 3D fashion design platform combining garment simulation, AI, and collaboration workflows.
-- [Optitex](https://optitex.com/) - 2D/3D CAD/CAM fashion design software for pattern design, grading, marker making, and virtual prototyping.
-- [TUKA3D](https://tukatech.com/) - 3D apparel design and fit simulation platform from Tukatech.
-- [VStitcher](https://browzwear.com/products/vstitcher/) - Browzwear's 3D apparel development software for design, fitting, and product visualization.
-- [Blender](https://www.blender.org/) - Open-source 3D creation suite often used for digital fashion rendering, animation, and presentation.
-- [Unreal Engine](https://www.unrealengine.com/) - Real-time 3D engine used for fashion shows, digital twins, virtual production, and immersive retail.
-- [Unity](https://unity.com/) - Real-time 3D engine used for AR/VR fashion experiences and interactive product visualization.
+- [CLO](https://www.clo3d.com/) 💰 🎓 - 3D fashion design software for virtual garment visualization and simulation.
+- [Marvelous Designer](https://www.marvelousdesigner.com/) 💰 🎓 - 3D clothing design and cloth simulation tool widely used in games, VFX, animation, and digital fashion.
+- [Browzwear](https://browzwear.com/) 💰 - Digital apparel design and development platform with 3D product creation workflows.
+- [Style3D](https://www.style3d.com/) 💰 - 3D fashion design platform combining garment simulation, AI, and collaboration workflows.
+- [Optitex](https://optitex.com/) 💰 - 2D/3D CAD/CAM fashion design software for pattern design, grading, marker making, and virtual prototyping.
+- [TUKA3D](https://tukatech.com/) 💰 - 3D apparel design and fit simulation platform from Tukatech.
+- [VStitcher](https://browzwear.com/products/vstitcher/) 💰 - Browzwear's 3D apparel development software for design, fitting, and product visualization.
+- [Blender](https://www.blender.org/) 🆓 🟢 - Open-source 3D creation suite often used for digital fashion rendering, animation, and presentation.
+- [Unreal Engine](https://www.unrealengine.com/) 🆓 - Real-time 3D engine used for fashion shows, digital twins, virtual production, and immersive retail.
+- [Unity](https://unity.com/) 🆓 💰 - Real-time 3D engine used for AR/VR fashion experiences and interactive product visualization.
 
 ## 2D Pattern Making, CAD & Production
 
-- [TUKAcad](https://tukatech.com/tukacad/) - CAD software for digital pattern making, grading, and marker making.
-- [Gerber AccuMark](https://www.gerbertechnology.com/fashion-apparel/accumark/) - Professional pattern design, grading, marker making, and production planning software.
-- [Lectra Modaris](https://www.lectra.com/en/products/modaris) - Pattern-making and 3D prototyping solution for apparel product development.
-- [Optitex 2D/3D CAD](https://optitex.com/products/2d-and-3d-cad-software/) - Integrated 2D pattern design and 3D virtual prototyping platform.
-- [Assyst](https://style3d-assyst.com/) - 2D/3D software ecosystem for fashion brands, suppliers, retail, and textile workflows.
-- [PAD System](https://www.padsystem.com/) - Apparel CAD software for pattern design, grading, and marker making.
-- [Richpeace CAD](https://www.richpeace.com/) - CAD/CAM solutions for apparel and textile production.
+- [TUKAcad](https://tukatech.com/tukacad/) 💰 - CAD software for digital pattern making, grading, and marker making.
+- [Gerber AccuMark](https://www.gerbertechnology.com/fashion-apparel/accumark/) 💰 - Professional pattern design, grading, marker making, and production planning software.
+- [Lectra Modaris](https://www.lectra.com/en/products/modaris) 💰 - Pattern-making and 3D prototyping solution for apparel product development.
+- [Optitex 2D/3D CAD](https://optitex.com/products/2d-and-3d-cad-software/) 💰 - Integrated 2D pattern design and 3D virtual prototyping platform.
+- [Assyst](https://style3d-assyst.com/) 💰 - 2D/3D software ecosystem for fashion brands, suppliers, retail, and textile workflows.
+- [PAD System](https://www.padsystem.com/) 💰 - Apparel CAD software for pattern design, grading, and marker making.
+- [Richpeace CAD](https://www.richpeace.com/) 💰 - CAD/CAM solutions for apparel and textile production.
 
 ## Open Source Pattern-Making Tools
 
-- [Seamly2D](https://seamly.io/) - Free and open-source software for pattern making and custom measurements.
-- [Seamly2D GitHub](https://github.com/FashionFreedom/Seamly2D) - Source code for Seamly2D, released under GPLv3+.
-- [Valentina](https://smart-pattern.com.ua/en/valentina/download/) - Open-source parametric pattern-making program for clothing patterns.
-- [Valentina Project](https://valentinaproject.bitbucket.io/) - Project page for the open-source pattern drafting software Valentina.
-- [FreeSewing](https://freesewing.org/) - Open-source platform for made-to-measure sewing patterns.
+- [Seamly2D](https://seamly.io/) 🆓 🟢 - Free and open-source software for pattern making and custom measurements.
+- [Seamly2D GitHub](https://github.com/FashionFreedom/Seamly2D) 🆓 🟢 - Source code for Seamly2D, released under GPLv3+.
+- [Valentina](https://smart-pattern.com.ua/en/valentina/download/) 🆓 🟢 - Open-source parametric pattern-making program for clothing patterns.
+- [Valentina Project](https://valentinaproject.bitbucket.io/) 🆓 🟢 - Project page for the open-source pattern drafting software Valentina.
+- [FreeSewing](https://freesewing.org/) 🆓 🟢 - Open-source platform for made-to-measure sewing patterns.
 
 ## AI Fashion Tools & Virtual Try-On
 
-- [OpenTryOn](https://github.com/tryonlabs/opentryon) - Open-source toolkit for fashion AI, garment segmentation, human parsing, pose estimation, and virtual try-on.
-- [IDM-VTON](https://github.com/yisol/IDM-VTON) - Diffusion-based virtual try-on model.
-- [OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - Outfitting-oriented diffusion model for virtual try-on.
-- [StableVITON](https://github.com/rlawjdghek/StableVITON) - Learning-based image virtual try-on model using latent diffusion.
-- [HR-VITON](https://github.com/sangyun884/HR-VITON) - High-resolution virtual try-on model.
-- [VITON-HD](https://github.com/shadow2496/VITON-HD) - High-resolution virtual try-on benchmark and model.
-- [FASHN AI](https://fashn.ai/) - AI platform for virtual try-on and fashion image generation.
-- [Botika](https://botika.io/) - AI fashion model photography platform for e-commerce.
-- [Vue.ai](https://www.vue.ai/) - AI products for fashion retail, personalization, catalog enrichment, and styling.
-- [Heuritech](https://www.heuritech.com/) - AI trend forecasting and market intelligence platform for fashion brands.
-- [Stylumia](https://www.stylumia.ai/) - Fashion analytics and demand forecasting platform.
+- [OpenTryOn](https://github.com/tryonlabs/opentryon) 🆓 🟢 - Open-source toolkit for fashion AI, garment segmentation, human parsing, pose estimation, and virtual try-on.
+- [IDM-VTON](https://github.com/yisol/IDM-VTON) 🆓 🟢 - Diffusion-based virtual try-on model.
+- [OOTDiffusion](https://github.com/levihsu/OOTDiffusion) 🆓 🟢 - Outfitting-oriented diffusion model for virtual try-on.
+- [StableVITON](https://github.com/rlawjdghek/StableVITON) 🆓 🟢 - Learning-based image virtual try-on model using latent diffusion.
+- [HR-VITON](https://github.com/sangyun884/HR-VITON) 🆓 🟢 - High-resolution virtual try-on model.
+- [VITON-HD](https://github.com/shadow2496/VITON-HD) 🆓 🟢 - High-resolution virtual try-on benchmark and model.
+- [FASHN AI](https://fashn.ai/) 💰 - AI platform for virtual try-on and fashion image generation.
+- [Botika](https://botika.io/) 💰 - AI fashion model photography platform for e-commerce.
+- [Vue.ai](https://www.vue.ai/) 💰 - AI products for fashion retail, personalization, catalog enrichment, and styling.
+- [Heuritech](https://www.heuritech.com/) 💰 - AI trend forecasting and market intelligence platform for fashion brands.
+- [Stylumia](https://www.stylumia.ai/) 💰 - Fashion analytics and demand forecasting platform.
 
 ## Digital Fashion, Avatars & Virtual Worlds
 
@@ -111,17 +136,17 @@ Contributions are welcome. Please keep descriptions short, useful, and non-promo
 
 ## Datasets
 
-- [DeepFashion](https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) - Large-scale clothing dataset with images, categories, attributes, landmarks, and cross-domain pairs.
-- [DeepFashion2](https://github.com/switchablenorms/DeepFashion2) - Dataset for fashion detection, pose estimation, segmentation, and retrieval.
-- [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) - Zalando dataset of article images intended as a drop-in replacement for MNIST.
-- [ModaNet](https://github.com/eBay/modanet) - Street fashion image dataset with polygon annotations for apparel segmentation.
-- [VITON-HD Dataset](https://github.com/shadow2496/VITON-HD) - High-resolution dataset for image-based virtual try-on.
-- [Dress Code](https://github.com/aimagelab/dress-code) - High-resolution multi-category dataset for virtual try-on.
-- [Polyvore Outfits](https://github.com/xthan/polyvore-dataset) - Outfit compatibility dataset based on Polyvore data.
-- [Fashionpedia](https://fashionpedia.github.io/home/) - Fashion dataset with fine-grained segmentation and attributes.
-- [iMaterialist Fashion](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6) - Kaggle fashion segmentation challenge dataset.
-- [DATASOURCE for fAshIon](https://github.com/aemikachow/datasource) - Index of fashion-related datasets used in research papers.
-- [Simulated Garment Dataset for Virtual Try-On](https://github.com/isantesteban/vto-dataset) - Simulated garment dataset for 3D garment models and virtual try-on research.
+- [DeepFashion](https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) 🆓 - Large-scale clothing dataset with images, categories, attributes, landmarks, and cross-domain pairs.
+- [DeepFashion2](https://github.com/switchablenorms/DeepFashion2) 🆓 🟢 - Dataset for fashion detection, pose estimation, segmentation, and retrieval.
+- [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) 🆓 🟢 - Zalando dataset of article images intended as a drop-in replacement for MNIST.
+- [ModaNet](https://github.com/eBay/modanet) 🆓 🟢 - Street fashion image dataset with polygon annotations for apparel segmentation.
+- [VITON-HD Dataset](https://github.com/shadow2496/VITON-HD) 🆓 🟢 - High-resolution dataset for image-based virtual try-on.
+- [Dress Code](https://github.com/aimagelab/dress-code) 🆓 🟢 - High-resolution multi-category dataset for virtual try-on.
+- [Polyvore Outfits](https://github.com/xthan/polyvore-dataset) 🆓 🟢 - Outfit compatibility dataset based on Polyvore data.
+- [Fashionpedia](https://fashionpedia.github.io/home/) 🆓 - Fashion dataset with fine-grained segmentation and attributes.
+- [iMaterialist Fashion](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6) 🆓 - Kaggle fashion segmentation challenge dataset.
+- [DATASOURCE for fAshIon](https://github.com/aemikachow/datasource) 🆓 🟢 - Index of fashion-related datasets used in research papers.
+- [Simulated Garment Dataset for Virtual Try-On](https://github.com/isantesteban/vto-dataset) 🆓 🟢 - Simulated garment dataset for 3D garment models and virtual try-on research.
 
 ## Research & Awesome Lists
 
@@ -174,6 +199,7 @@ Contributions are welcome. Please keep descriptions short, useful, and non-promo
 - [Cool GenAI Fashion Papers](https://github.com/wendashi/Cool-GenAI-Fashion-Papers)
 - [DATASOURCE for fAshIon](https://github.com/aemikachow/datasource)
 - [Fashionpedia](https://fashionpedia.github.io/home/)
+
 
 ## License
 
